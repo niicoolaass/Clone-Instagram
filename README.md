@@ -4,7 +4,7 @@ Meu primeiro projeto em React.js, bem desafiador pelo fato do instagram ter uma 
 
 Tecnologias usadas: React.js, Javascript e CSS. 
 
-Penso em colocar mais publicações no futuro.
+Penso em fazer mais melhorias no projeto no futuro.
 
 
 https://user-images.githubusercontent.com/101203587/196578956-055145a7-5da7-431f-b933-dcd70b78e67e.mp4
