@@ -1,0 +1,49 @@
+.Storys{
+    padding: 15px;
+    height: 119px;
+    display: flex;
+    gap: 15px;
+}
+
+.Storys-elements{
+    cursor: pointer;
+}
+
+.user-elements div{
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(#c82d8e, #f99d4c);
+}
+
+.image-story-1{
+    width: 61px;
+    height: 61px;
+    border: 2px solid var(--background);
+    border-radius: 50%;
+    margin-top: 4px;
+}
+
+.user-elements span{
+    font-size: 13px;
+    cursor: pointer;
+}
+
+.Storys .one{
+    margin-left: 6px;
+}
+
+.Storys .three{
+    margin-left: 18px;
+}
+
+.Storys .for{
+    margin-left: 6px;
+}
+
+.Storys .five{
+    margin-left: 7px;
+}

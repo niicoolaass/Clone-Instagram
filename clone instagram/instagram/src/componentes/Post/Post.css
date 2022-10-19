@@ -1,0 +1,127 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 15px;
+}
+
+header img{
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+ }
+
+.infos-post{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.infos-post p{
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+
+.image-post{
+    width: 100%;
+    cursor: auto;
+}
+
+.footer-post{
+    padding: 10px 15px;
+}
+
+.engagement-post{
+    display: flex;
+    justify-content: space-between;
+}
+
+.engagement-post .icons-1{
+    display: flex;
+    gap: 16px;
+}
+
+.icons-1{
+    cursor: pointer;
+}
+
+.icons-1 :nth-child(1):hover{
+    color: rgb(114, 114, 114);
+}
+
+
+.icons-1 :nth-child(2):hover{
+    color: rgb(114, 114, 114);
+}
+
+.icons-1 :nth-child(3):hover{
+    color: rgb(114, 114, 114);
+}
+
+
+.icon{
+    cursor: pointer;
+}
+
+.icon:hover{
+    color: rgb(114, 114, 114);
+}
+
+.like{
+    cursor: pointer;
+}
+
+.like span{
+    margin-top: 20px;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.legend{
+    font-size: 14px;
+    margin: 6px 0 3px;
+}
+
+.legend p span{
+    cursor: pointer;
+    font-weight: 500;
+}
+
+.legend p:nth-child(2){
+    margin-top: 10px;
+    color: var(--secondary);
+    cursor: pointer;
+}
+
+.time-post time{
+    font-size: 10px;
+    color: var(--secondary);
+    cursor: pointer;
+}
+
+.comment{
+    border-top: 1px solid var(--border-secondary);
+    margin-top: 8px;
+    display: flex;
+}
+
+.fake-comment{
+    padding: 10px 0 0;
+    display: flex;
+    align-items: center;
+    flex: 1;
+    gap: 16px;
+}
+
+.fake-comment input{
+    font-size: 16px;
+}
+
+.comment button{
+    color: var(--quartary);
+    cursor: pointer;
+    font-weight: 500;
+    background: transparent;
+}
+
+

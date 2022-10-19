@@ -1,0 +1,51 @@
+.cabecalho{
+    background: var(--background);
+    border-bottom: 1px solid var(--border);
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.cabecalho .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 60px;
+    max-width: 980px;
+    margin: 0 auto;
+}
+
+.cabecalho .container .logo{
+    width: 110px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.input-fake{
+    background: #efefef;
+    border-radius: 3px;
+    border-radius: 8px;
+    padding: 8px 40px 7px 12px;
+    display: flex;
+    margin-left: 180px;
+    align-items: center;
+    font-size: 20px;
+}
+
+.input-fake input{
+    background: #efefef;
+    font-size: 16px;
+    padding: 0 10px;
+    font-weight: 100;
+}
+
+.menu-icons{
+    display: flex;
+    gap: 20px;
+}
+
+.menu-icons .img-user{
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+}
