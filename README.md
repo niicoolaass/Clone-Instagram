@@ -10,7 +10,6 @@ No terminal:
 
 ```sh
 cd instagram
-...\clone instagram\instagram
 npm install
 npm start
 ```
