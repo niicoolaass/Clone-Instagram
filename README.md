@@ -6,6 +6,14 @@ Tecnologias usadas: React.js, Javascript e CSS.
 
 Penso em fazer mais melhorias no projeto no futuro.
 
+No terminal:
+
+```sh
+cd instagram
+...\clone instagram\instagram
+npm install
+```
+E iniciará o projeto.
 
 https://user-images.githubusercontent.com/101203587/196578956-055145a7-5da7-431f-b933-dcd70b78e67e.mp4
 
